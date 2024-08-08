@@ -2,7 +2,7 @@ use std::{thread, time::Duration};
 use rand::Rng;
 
 const WIDTH: usize = 60;
-const HEIGHT: usize = 20;
+const HEIGHT: usize = 25;
 
 fn main() {
     let mut grid = initialize_random_grid();
