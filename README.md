@@ -2,6 +2,12 @@
 
 This is a simple implementation of Conway's Game of Life in Rust, running in the terminal.
 
+## Example
+
+Here's an example of what the game looks like when running:
+
+![Game of Life Example](gol.gif)
+
 ## How to Run
 
 1. Ensure you have Rust and Cargo installed on your system. If not, you can install them from [rustup.rs](https://rustup.rs/).
@@ -18,12 +24,6 @@ This is a simple implementation of Conway's Game of Life in Rust, running in the
    ```
 
 4. To exit the game, press `Ctrl+C`.
-
-## Example
-
-Here's an example of what the game looks like when running:
-
-![Game of Life Example](gol.gif)
 
 ## Features
 
