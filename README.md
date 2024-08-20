@@ -42,7 +42,3 @@ You can also adjust the probability of cells being initially alive by changing t
 ## Contributing
 
 Feel free to fork this repository and submit pull requests with improvements or additional features!
-
-## License
-
-[Add your chosen license here]
